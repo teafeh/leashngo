@@ -3,10 +3,20 @@ import Day21 from './Day21/Day21';
 import './App.css';
 
 function App() {
+
   return (
-    <div>
-      <Day21/>
+    <body>
+      <main>
+      <div className='mystyle'>
+      {/* <Day21/> */}
     </div>
+      </main>
+      <footer>
+        
+      </footer>
+    
+    </body>
+    
   );
 }
 
